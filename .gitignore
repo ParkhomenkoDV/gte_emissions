@@ -1,5 +1,6 @@
 datas/intermid/
 datas/processed/
+logs/
 models/
 
 __pycache__/
